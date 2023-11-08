@@ -13,3 +13,5 @@ First gamedev project in rust
 - Score
 - Winning
 - Fun
+
+## [Tutorial](https://tetra.seventeencups.net/tutorial)
